@@ -1,0 +1,229 @@
+{
+  "dares": [
+    {
+      "id": 1,
+      "dare": "Send a selfie with a seductive pose or a totally unhinged face",
+      "description": "Think smoldering eyes or full-on crazy vibes."
+    },
+    {
+      "id": 2,
+      "dare": "Show your feet on camera",
+      "description": "Wiggle your toes, show off painted nails, or do something quirky with them."
+    },
+    {
+      "id": 3,
+      "dare": "Give a full room tour",
+      "description": "Zoom in on personal or weird items (like that random sock pile or a hidden snack stash)."
+    },
+    {
+      "id": 4,
+      "dare": "Show the contents of your fridge",
+      "description": "Explain your oddest item or confess your eating habits (e.g., 'Yes, that’s week-old pizza')."
+    },
+    {
+      "id": 5,
+      "dare": "Let others read your Discord messages for 5 minutes",
+      "description": "No deleting allowed; let the chaos unfold!"
+    },
+    {
+      "id": 6,
+      "dare": "Share your browser history from the last 24 hours",
+      "description": "Spill the tea on what you’ve been Googling."
+    },
+    {
+      "id": 7,
+      "dare": "Sing a song on camera in a sexy or ridiculous voice",
+      "description": "Belt out a love ballad or screech a meme song."
+    },
+    {
+      "id": 8,
+      "dare": "Do a dance on camera",
+      "description": "Go for a seductive twerk or a wild flail in a goofy outfit."
+    },
+    {
+      "id": 9,
+      "dare": "Share a secret you’ve never told anyone",
+      "description": "Make it juicy or shocking, no holding back!"
+    },
+    {
+      "id": 10,
+      "dare": "Show your pet on camera",
+      "description": "Make it do a trick, or zoom in on its weirdest feature."
+    },
+    {
+      "id": 12,
+      "dare": "Do a makeup tutorial on camera",
+      "description": "Go bold (clown vibes or glam) and narrate your process."
+    },
+    {
+      "id": 13,
+      "dare": "Show your closet",
+      "description": "Explain your wildest outfit or confess why half your clothes are unworn."
+    },
+    {
+      "id": 14,
+      "dare": "Share your go-to spicy recipe",
+      "description": "Explain why it’s your seduction meal (or total fail)."
+    },
+    {
+      "id": 15,
+      "dare": "Do a workout on camera",
+      "description": "Wear something outrageous or attempt a tough move (and maybe fail hilariously)."
+    },
+    {
+      "id": 16,
+      "dare": "Reveal your favorite book",
+      "description": "Read a steamy passage or explain its weirdest plot twist."
+    },
+    {
+      "id": 17,
+      "dare": "Show your art or crafts",
+      "description": "Share the story behind it, especially if it’s bizarre or personal."
+    },
+    {
+      "id": 18,
+      "dare": "Name your favorite movie",
+      "description": "Act out a dramatic scene or confess why it’s your guilty pleasure."
+    },
+    {
+      "id": 19,
+      "dare": "Cook something live",
+      "description": "Make it chaotic: spill stuff, improvise, or create a monstrosity."
+    },
+    {
+      "id": 20,
+      "dare": "Share your music playlist",
+      "description": "Play your most embarrassing or hype song and justify it."
+    },
+    {
+      "id": 21,
+      "dare": "Show your plants or garden",
+      "description": "Talk to them on camera or confess how many you’ve accidentally killed."
+    },
+    {
+      "id": 22,
+      "dare": "Reveal your favorite video game",
+      "description": "Show off your skills (or lack thereof) live."
+    },
+    {
+      "id": 23,
+      "dare": "Do a magic trick on camera",
+      "description": "Make it impressive or hilariously bad (e.g., 'Where’d my sock go?')."
+    },
+    {
+      "id": 24,
+      "dare": "Talk about your weirdest hobby",
+      "description": "Demonstrate it if you can (like juggling spoons)."
+    },
+    {
+      "id": 25,
+      "dare": "Show off a personal collection",
+      "description": "Explain your obsession (e.g., rocks, old receipts, whatever!)."
+    },
+    {
+      "id": 26,
+      "dare": "Share a quote that hits hard",
+      "description": "Make it spicy, deep, or totally random, and say why it’s you."
+    },
+    {
+      "id": 27,
+      "dare": "Do a yoga pose on camera",
+      "description": "Attempt something wild (like a backbend) or flop dramatically."
+    },
+    {
+      "id": 29,
+      "dare": "Show your favorite clothing item",
+      "description": "Model it or tell its scandalous backstory."
+    },
+    {
+      "id": 30,
+      "dare": "Share a spicy sexual memory",
+      "description": "Keep it PG-13 but tease the wild details."
+    },
+    {
+      "id": 31,
+      "dare": "Lead a meditation session",
+      "description": "Add a twist: whisper creepy affirmations or giggle midway."
+    },
+    {
+      "id": 32,
+      "dare": "Tell your dirtiest joke",
+      "description": "The raunchier, the better—shock your audience!"
+    },
+    {
+      "id": 33,
+      "dare": "Show a childhood toy",
+      "description": "Explain why it’s still in your life (or why it’s creepy now)."
+    },
+    {
+      "id": 35,
+      "dare": "Do karaoke on camera",
+      "description": "Pick a sexy slow jam or a ridiculous banger and commit."
+    },
+    {
+      "id": 37,
+      "dare": "Show off your favorite jewelry",
+      "description": "Tell its story (e.g., 'Stole this from my ex')."
+    },
+    {
+      "id": 38,
+      "dare": "Talk about your favorite holiday",
+      "description": "Share a crazy tradition or party fail."
+    },
+    {
+      "id": 39,
+      "dare": "Perform a stand-up comedy bit",
+      "description": "Make it daring—roast yourself or your friends."
+    },
+    {
+      "id": 40,
+      "dare": "Name your favorite animal",
+      "description": "Mimic it on camera or explain why you’d be it."
+    },
+    {
+      "id": 41,
+      "dare": "Show your favorite furniture",
+      "description": "Sit on it weirdly or tell its origin story (e.g., 'Found it on the curb')."
+    },
+    {
+      "id": 42,
+      "dare": "Declare your favorite color",
+      "description": "Paint it on your face or find random objects in that shade."
+    },
+    {
+      "id": 43,
+      "dare": "Impersonate someone on camera",
+      "description": "Go for a celebrity, friend, or over-the-top character."
+    },
+    {
+      "id": 44,
+      "dare": "Share your favorite scent",
+      "description": "Spray it, sniff it, or rant about why it’s the best."
+    },
+    {
+      "id": 45,
+      "dare": "Show your favorite art piece",
+      "description": "Explain its vibe or why it’s secretly about you."
+    },
+    {
+      "id": 46,
+      "dare": "Play your favorite sound",
+      "description": "Make it yourself (e.g., a scream) or find it online."
+    },
+    {
+      "id": 47,
+      "dare": "Lip sync a song",
+      "description": "Pick something spicy or absurd and sell it with your whole soul."
+    },
+    {
+      "id": 48,
+      "dare": "Describe your favorite texture",
+      "description": "Touch something weird on camera (like a fuzzy sock or cold pizza)."
+    },
+    {
+      "id": 49,
+      "dare": "Show your favorite tech gadget",
+      "description": "Demo it failing or flex how it runs your life."
+    }
+  ]
+}

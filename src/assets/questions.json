@@ -1,938 +1,289 @@
 [
-    {
-        "category": "General",
-        "question": "Who is one ex you would go back to\u2014if they'd take you?"
-    },
-    {
-        "category": "General",
-        "question": "Have you ever been in love with two people at once?"
-    },
-    {
-        "category": "General",
-        "question": "If your best friend's partner hit on you, would you tell or stay quiet?"
-    },
-    {
-        "category": "General",
-        "question": "Have you ever faked love, an orgasm, or affection just to keep someone?"
-    },
-    {
-        "category": "General",
-        "question": "What\u2019s the most manipulative thing you\u2019ve done in a relationship?"
-    },
-    {
-        "category": "General",
-        "question": "How much would someone have to pay you to betray a friend?"
-    },
-    {
-        "category": "General",
-        "question": "Would you sleep with someone you despise for $10,000?"
-    },
-    {
-        "category": "General",
-        "question": "If you could become rich but had to erase one person from existence, would you?"
-    },
-    {
-        "category": "General",
-        "question": "What would you do if your partner became broke and jobless forever?"
-    },
-    {
-        "category": "General",
-        "question": "Have you ever taken credit for something you didn\u2019t do?"
-    },
-    {
-        "category": "Sex & Intimacy (NSFW)",
-        "question": "What\u2019s your body count?"
-    },
-    {
-        "category": "Sex & Intimacy (NSFW)",
-        "question": "Have you ever hooked up with someone and instantly regretted it?"
-    },
-    {
-        "category": "Sex & Intimacy (NSFW)",
-        "question": "Would you ever do a threesome\u2014who with?"
-    },
-    {
-        "category": "Sex & Intimacy (NSFW)",
-        "question": "What turns you on that you\u2019re too embarrassed to admit?"
-    },
-    {
-        "category": "Sex & Intimacy (NSFW)",
-        "question": "Have you ever filmed yourself doing it?"
-    },
-    {
-        "category": "Sex & Intimacy (NSFW)",
-        "question": "Have you ever fantasized about someone in this group?"
-    },
-    {
-        "category": "Sex & Intimacy (NSFW)",
-        "question": "What\u2019s the most public place you\u2019ve done it?"
-    },
-    {
-        "category": "Sex & Intimacy (NSFW)",
-        "question": "Have you ever lied about being a virgin?"
-    },
-    {
-        "category": "Sex & Intimacy (NSFW)",
-        "question": "What\u2019s a kink you want to try but haven\u2019t?"
-    },
-    {
-        "category": "Sex & Intimacy (NSFW)",
-        "question": "Do you prefer rough or romantic?"
-    },
-    {
-        "category": "Dark Thoughts & Dirty Secrets",
-        "question": "Have you ever wanted someone close to you to fail?"
-    },
-    {
-        "category": "Dark Thoughts & Dirty Secrets",
-        "question": "What\u2019s something you\u2019ve stolen?"
-    },
-    {
-        "category": "Dark Thoughts & Dirty Secrets",
-        "question": "Who\u2019s someone you pretend to like, but would celebrate if they disappeared?"
-    },
-    {
-        "category": "Dark Thoughts & Dirty Secrets",
-        "question": "Have you ever wished someone in your life would die?"
-    },
-    {
-        "category": "Dark Thoughts & Dirty Secrets",
-        "question": "What\u2019s something illegal you\u2019d do if there were zero consequences?"
-    },
-    {
-        "category": "Dark Thoughts & Dirty Secrets",
-        "question": "Ever destroyed something out of rage or jealousy?"
-    },
-    {
-        "category": "Dark Thoughts & Dirty Secrets",
-        "question": "Who\u2019s the most toxic person you\u2019ve ever loved?"
-    },
-    {
-        "category": "Dark Thoughts & Dirty Secrets",
-        "question": "Have you ever sabotaged someone on purpose?"
-    },
-    {
-        "category": "Dark Thoughts & Dirty Secrets",
-        "question": "Have you ever lied to make someone else look bad?"
-    },
-    {
-        "category": "Dark Thoughts & Dirty Secrets",
-        "question": "What\u2019s your most shameful moment?"
-    },
-    {
-        "category": "Moral Dilemmas",
-        "question": "Would you lie in court to protect a friend?"
-    },
-    {
-        "category": "Moral Dilemmas",
-        "question": "If your partner cheated and nobody would ever find out, would you want to know?"
-    },
-    {
-        "category": "Moral Dilemmas",
-        "question": "Would you date someone just for money?"
-    },
-    {
-        "category": "Moral Dilemmas",
-        "question": "Would you marry someone you don\u2019t love for $1 million?"
-    },
-    {
-        "category": "Moral Dilemmas",
-        "question": "If someone gave you $500K to never talk to your best friend again, would you take it?"
-    },
-    {
-        "category": "Love & Betrayal",
-        "question": "Have you ever emotionally cheated?"
-    },
-    {
-        "category": "Love & Betrayal",
-        "question": "Who\u2019s someone you still think about but shouldn\u2019t?"
-    },
-    {
-        "category": "Love & Betrayal",
-        "question": "Who broke your heart the worst\u2014and do they know?"
-    },
-    {
-        "category": "Love & Betrayal",
-        "question": "Have you ever ghosted someone for no reason?"
-    },
-    {
-        "category": "Love & Betrayal",
-        "question": "Have you ever made someone jealous on purpose?"
-    },
-    {
-        "category": "Love & Betrayal",
-        "question": "Do you actually believe in \u201cthe one\u201d or is it just comfort?"
-    },
-    {
-        "category": "Love & Betrayal",
-        "question": "Have you ever told someone you love them and didn\u2019t mean it?"
-    },
-    {
-        "category": "Love & Betrayal",
-        "question": "What\u2019s the worst thing you\u2019ve done during a breakup?"
-    },
-    {
-        "category": "Love & Betrayal",
-        "question": "Would you get back with your ex if they asked today?"
-    },
-    {
-        "category": "Love & Betrayal",
-        "question": "Have you ever chosen someone over your partner?"
-    },
-    {
-        "category": "Greed, Envy, and Status",
-        "question": "Would you rather be rich and hated or poor and loved?"
-    },
-    {
-        "category": "Greed, Envy, and Status",
-        "question": "Who\u2019s someone you envy but won\u2019t admit it to them?"
-    },
-    {
-        "category": "Greed, Envy, and Status",
-        "question": "Have you ever faked a lifestyle on social media?"
-    },
-    {
-        "category": "Greed, Envy, and Status",
-        "question": "Would you throw someone under the bus to keep your job?"
-    },
-    {
-        "category": "Greed, Envy, and Status",
-        "question": "Have you ever lied about your income or job?"
-    },
-    {
-        "category": "Greed, Envy, and Status",
-        "question": "What\u2019s the most shallow reason you\u2019ve rejected someone?"
-    },
-    {
-        "category": "Greed, Envy, and Status",
-        "question": "Would you ever get with someone purely for fame?"
-    },
-    {
-        "category": "Greed, Envy, and Status",
-        "question": "If you could erase your past and pretend to be someone else, would you?"
-    },
-    {
-        "category": "Greed, Envy, and Status",
-        "question": "Have you ever used someone for clout or access?"
-    },
-    {
-        "category": "Greed, Envy, and Status",
-        "question": "Have you ever thought someone was beneath you?"
-    },
-    {
-        "category": "Friendship & Loyalty",
-        "question": "Who\u2019s your least favorite person in this group?"
-    },
-    {
-        "category": "Friendship & Loyalty",
-        "question": "Have you ever started a rumor about someone?"
-    },
-    {
-        "category": "Friendship & Loyalty",
-        "question": "Who do you trust the least out of your close friends?"
-    },
-    {
-        "category": "Friendship & Loyalty",
-        "question": "What\u2019s something you\u2019ve never forgiven a friend for\u2014but they don\u2019t know it?"
-    },
-    {
-        "category": "Friendship & Loyalty",
-        "question": "Have you ever talked shit about your best friend behind their back?"
-    },
-    {
-        "category": "Friendship & Loyalty",
-        "question": "Have you ever flirted with a friend\u2019s partner?"
-    },
-    {
-        "category": "Friendship & Loyalty",
-        "question": "Would you bail your best friend out of jail if it cost you your savings?"
-    },
-    {
-        "category": "Friendship & Loyalty",
-        "question": "Have you ever ghosted a friend without explanation?"
-    },
-    {
-        "category": "Friendship & Loyalty",
-        "question": "Do you think any of your friends are secretly fake?"
-    },
-    {
-        "category": "Friendship & Loyalty",
-        "question": "Would you let a friend take the fall for something you did?"
-    },
-    {
-        "category": "Identity & Self-Deception",
-        "question": "What\u2019s something fake about you?"
-    },
-    {
-        "category": "Identity & Self-Deception",
-        "question": "Do you really like yourself or are you just coping?"
-    },
-    {
-        "category": "Identity & Self-Deception",
-        "question": "Do you think you\u2019re better than most people?"
-    },
-    {
-        "category": "Identity & Self-Deception",
-        "question": "What\u2019s something you constantly lie to yourself about?"
-    },
-    {
-        "category": "Identity & Self-Deception",
-        "question": "What\u2019s a version of yourself you only show online?"
-    },
-    {
-        "category": "Identity & Self-Deception",
-        "question": "What\u2019s something you\u2019ve done to fit in but hated yourself for?"
-    },
-    {
-        "category": "Identity & Self-Deception",
-        "question": "Have you ever changed who you are to be loved?"
-    },
-    {
-        "category": "Identity & Self-Deception",
-        "question": "What\u2019s a truth about yourself you\u2019re afraid people would judge?"
-    },
-    {
-        "category": "Identity & Self-Deception",
-        "question": "Would you still be \u201cyou\u201d without your looks or status?"
-    },
-    {
-        "category": "Identity & Self-Deception",
-        "question": "What\u2019s something you\u2019ll never admit publicly but admit here?"
-    },
-    {
-        "category": "Love, Lust & Betrayal",
-        "question": "Have you ever said \"I love you\" during sex just to make it hotter?"
-    },
-    {
-        "category": "Love, Lust & Betrayal",
-        "question": "Who\u2019s someone you would cheat with and feel no guilt?"
-    },
-    {
-        "category": "Love, Lust & Betrayal",
-        "question": "What\u2019s a secret fetish you\u2019ve never admitted to a partner?"
-    },
-    {
-        "category": "Love, Lust & Betrayal",
-        "question": "Ever watched your partner sleep and felt disgust instead of love?"
-    },
-    {
-        "category": "Love, Lust & Betrayal",
-        "question": "Have you ever fantasized about your best friend\u2019s partner?"
-    },
-    {
-        "category": "Love, Lust & Betrayal",
-        "question": "Would you ever sleep with an ex just to ruin their new relationship?"
-    },
-    {
-        "category": "Love, Lust & Betrayal",
-        "question": "Have you ever cheated and blamed the other person emotionally?"
-    },
-    {
-        "category": "Love, Lust & Betrayal",
-        "question": "What's the darkest thought you've had during sex?"
-    },
-    {
-        "category": "Love, Lust & Betrayal",
-        "question": "Who\u2019s someone you\u2019d sleep with just for revenge?"
-    },
-    {
-        "category": "Love, Lust & Betrayal",
-        "question": "Would you stay in a toxic relationship if the sex was incredible?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Have you ever emotionally manipulated someone just to feel powerful?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "What\u2019s the dirtiest lie you've told to avoid accountability?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Would you frame someone innocent to save yourself?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Have you ever played the victim to get attention?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Would you fake a mental health crisis for sympathy?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Have you ever wished your partner would die so you could be free?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Would you sleep with someone to get revenge on a friend?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Have you ever ignored someone\u2019s trauma because it bored you?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Would you ruin someone's relationship just because you\u2019re jealous?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "What\u2019s the meanest thing you've ever done and felt proud of?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "What secret addiction do you hide best?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Do you secretly want to be famous even if it destroys your privacy?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "What dark corner of the internet do you visit but never admit?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "What\u2019s the most obsessive thing you\u2019ve done over someone?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Have you ever stalked someone online for hours?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Have you ever made a fake account to spy on someone?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "What\u2019s a secret turn-on you wish you didn\u2019t have?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "What\u2019s the last thing you searched that you\u2019d be horrified to explain?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Do you replay arguments or fantasies in your head obsessively?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Have you ever gotten off to the thought of someone crying?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Would you ruin someone\u2019s career to secure your own?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Have you ever used someone you were never attracted to?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "What\u2019s the shallowest reason you\u2019ve ever pursued someone?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Would you marry someone 40 years older for luxury?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Do you judge friends who make less money?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Have you ever pretended to be poor or rich for attention?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Who\u2019s someone you only tolerate because they\u2019re useful?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Have you ever befriended someone just for their connections?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Would you fake a relationship for money or fame?"
-    },
-    {
-        "category": "Morally Grey & Just Wrong",
-        "question": "Have you ever felt someone was \"beneath\" you socially?"
-    },
-    {
-        "category": "Relationships & Trust Issues",
-        "question": "Do you trust anyone 100%? If so, why?"
-    },
-    {
-        "category": "Relationships & Trust Issues",
-        "question": "Who in your life would betray you the fastest?"
-    },
-    {
-        "category": "Relationships & Trust Issues",
-        "question": "Have you ever set someone up to fail in a relationship?"
-    },
-    {
-        "category": "Relationships & Trust Issues",
-        "question": "What\u2019s a manipulative trick you always use in arguments?"
-    },
-    {
-        "category": "Relationships & Trust Issues",
-        "question": "Have you ever used crying to win?"
-    },
-    {
-        "category": "Relationships & Trust Issues",
-        "question": "Do you secretly keep people close just to feel in control?"
-    },
-    {
-        "category": "Relationships & Trust Issues",
-        "question": "Have you ever exposed a secret someone trusted you with?"
-    },
-    {
-        "category": "Relationships & Trust Issues",
-        "question": "What\u2019s something you know would destroy someone if it got out?"
-    },
-    {
-        "category": "Relationships & Trust Issues",
-        "question": "Have you ever felt proud after emotionally hurting someone?"
-    },
-    {
-        "category": "Relationships & Trust Issues",
-        "question": "Who\u2019s someone you would emotionally blackmail if you had to?"
-    },
-    {
-        "category": "Mental Shadows & Identity",
-        "question": "What\u2019s something that defines you\u2014but you wish it didn\u2019t?"
-    },
-    {
-        "category": "Mental Shadows & Identity",
-        "question": "Who\u2019s the real \u201cyou\u201d that only exists when no one\u2019s watching?"
-    },
-    {
-        "category": "Mental Shadows & Identity",
-        "question": "Have you ever looked in the mirror and felt disgusted?"
-    },
-    {
-        "category": "Mental Shadows & Identity",
-        "question": "What do you really think people love you for?"
-    },
-    {
-        "category": "Mental Shadows & Identity",
-        "question": "What identity do you perform that you secretly hate?"
-    },
-    {
-        "category": "Mental Shadows & Identity",
-        "question": "Have you ever built your personality around what others liked?"
-    },
-    {
-        "category": "Mental Shadows & Identity",
-        "question": "What are you most afraid people will find out about you?"
-    },
-    {
-        "category": "Mental Shadows & Identity",
-        "question": "What \u201cpositive\u201d trait do you secretly fake?"
-    },
-    {
-        "category": "Mental Shadows & Identity",
-        "question": "What\u2019s the ugliest part of your personality you keep hidden?"
-    },
-    {
-        "category": "Mental Shadows & Identity",
-        "question": "What\u2019s something you know you\u2019ll never admit to your partner?"
-    },
-    {
-        "category": "Sex & Raw Intimacy",
-        "question": "What\u2019s a sexual act you\u2019ve done but would never tell family about?"
-    },
-    {
-        "category": "Sex & Raw Intimacy",
-        "question": "What\u2019s your secret go-to porn category?"
-    },
-    {
-        "category": "Sex & Raw Intimacy",
-        "question": "Who\u2019s someone you fantasize about but would never approach?"
-    },
-    {
-        "category": "Sex & Raw Intimacy",
-        "question": "Have you ever had sex with someone just because you were bored?"
-    },
-    {
-        "category": "Sex & Raw Intimacy",
-        "question": "What\u2019s something that\u2019s happened during sex you\u2019ll never forget?"
-    },
-    {
-        "category": "Sex & Raw Intimacy",
-        "question": "What\u2019s the dirtiest message you\u2019ve ever sent?"
-    },
-    {
-        "category": "Sex & Raw Intimacy",
-        "question": "Would you have sex in front of an audience if paid enough?"
-    },
-    {
-        "category": "Sex & Raw Intimacy",
-        "question": "Have you ever faked enjoyment during the entire act?"
-    },
-    {
-        "category": "Sex & Raw Intimacy",
-        "question": "Have you ever used sex as manipulation?"
-    },
-    {
-        "category": "Sex & Raw Intimacy",
-        "question": "What\u2019s your least favorite thing in bed you pretend to like?"
-    },
-    {
-        "category": "Jealousy, Resentment & Silent Rage",
-        "question": "Who\u2019s someone you envy to the point of hatred?"
-    },
-    {
-        "category": "Jealousy, Resentment & Silent Rage",
-        "question": "What\u2019s something someone did better than you that still haunts you?"
-    },
-    {
-        "category": "Jealousy, Resentment & Silent Rage",
-        "question": "Have you ever celebrated someone else\u2019s failure?"
-    },
-    {
-        "category": "Jealousy, Resentment & Silent Rage",
-        "question": "Do you secretly hope someone never succeeds\u2014just so you don\u2019t feel left behind?"
-    },
-    {
-        "category": "Jealousy, Resentment & Silent Rage",
-        "question": "Have you ever ghosted someone just because they were too happy?"
-    },
-    {
-        "category": "Jealousy, Resentment & Silent Rage",
-        "question": "Who do you wish would lose everything out of spite?"
-    },
-    {
-        "category": "Jealousy, Resentment & Silent Rage",
-        "question": "What\u2019s something you hope your ex regrets forever?"
-    },
-    {
-        "category": "Jealousy, Resentment & Silent Rage",
-        "question": "Have you ever smiled at someone while plotting against them?"
-    },
-    {
-        "category": "Jealousy, Resentment & Silent Rage",
-        "question": "Who\u2019s someone you secretly wish would crash and burn?"
-    },
-    {
-        "category": "Jealousy, Resentment & Silent Rage",
-        "question": "Have you ever told a cruel truth just to hurt?"
-    },
-    {
-        "category": "Love Games & Emotional Damage",
-        "question": "Have you ever made someone fall for you just for fun?"
-    },
-    {
-        "category": "Love Games & Emotional Damage",
-        "question": "What\u2019s the coldest thing you\u2019ve ever said to someone who loved you?"
-    },
-    {
-        "category": "Love Games & Emotional Damage",
-        "question": "Have you ever stayed with someone just to break their heart first?"
-    },
-    {
-        "category": "Love Games & Emotional Damage",
-        "question": "Would you lie to keep someone in love with you?"
-    },
-    {
-        "category": "Love Games & Emotional Damage",
-        "question": "What\u2019s a romantic moment you completely faked?"
-    },
-    {
-        "category": "Love Games & Emotional Damage",
-        "question": "Have you ever ghosted someone after they got vulnerable?"
-    },
-    {
-        "category": "Love Games & Emotional Damage",
-        "question": "Do you secretly believe love is manipulation in disguise?"
-    },
-    {
-        "category": "Love Games & Emotional Damage",
-        "question": "What\u2019s the worst way you\u2019ve ever ended things?"
-    },
-    {
-        "category": "Love Games & Emotional Damage",
-        "question": "Have you ever taken someone back just to hurt them?"
-    },
-    {
-        "category": "Love Games & Emotional Damage",
-        "question": "Who\u2019s someone you wish loved you\u2014just so you could reject them?"
-    },
-    {
-        "category": "Taboo Fantasies & Dangerous Games",
-        "question": "What\u2019s the most illegal thing you\u2019ve ever wanted to do?"
-    },
-    {
-        "category": "Taboo Fantasies & Dangerous Games",
-        "question": "Would you push someone to cheat just to test their loyalty?"
-    },
-    {
-        "category": "Taboo Fantasies & Dangerous Games",
-        "question": "What\u2019s a thought you\u2019ve had about someone that would ruin you if it got out?"
-    },
-    {
-        "category": "Taboo Fantasies & Dangerous Games",
-        "question": "Would you ever blackmail someone if you had the dirt?"
-    },
-    {
-        "category": "Taboo Fantasies & Dangerous Games",
-        "question": "What\u2019s the darkest fantasy you\u2019ve ever had?"
-    },
-    {
-        "category": "Taboo Fantasies & Dangerous Games",
-        "question": "Have you ever wanted to destroy someone\u2019s life just to feel powerful?"
-    },
-    {
-        "category": "Taboo Fantasies & Dangerous Games",
-        "question": "If no one would ever know, who would you kiss\u2026 or kill?"
-    },
-    {
-        "category": "Taboo Fantasies & Dangerous Games",
-        "question": "Have you ever fantasized about running away and starting a double life?"
-    },
-    {
-        "category": "Taboo Fantasies & Dangerous Games",
-        "question": "Have you ever wished someone\u2019s child wasn\u2019t born?"
-    },
-    {
-        "category": "Taboo Fantasies & Dangerous Games",
-        "question": "What\u2019s something you\u2019ve done that you think should be unforgivable?"
-    },
-    {
-        "category": "Emotional Violence & Love Warfare",
-        "question": "Have you ever stayed in a relationship just to ruin the other person emotionally?"
-    },
-    {
-        "category": "Emotional Violence & Love Warfare",
-        "question": "Who\u2019s someone you wish you never loved\u2014but still do?"
-    },
-    {
-        "category": "Emotional Violence & Love Warfare",
-        "question": "Have you ever tried to make your partner jealous by flirting with someone in front of them?"
-    },
-    {
-        "category": "Emotional Violence & Love Warfare",
-        "question": "What\u2019s the most pathetic thing someone has done to keep you?"
-    },
-    {
-        "category": "Emotional Violence & Love Warfare",
-        "question": "Have you ever rejected someone just because they loved you too much?"
-    },
-    {
-        "category": "Emotional Violence & Love Warfare",
-        "question": "Who's the most disposable person you've dated?"
-    },
-    {
-        "category": "Emotional Violence & Love Warfare",
-        "question": "Have you ever emotionally blackmailed someone and called it love?"
-    },
-    {
-        "category": "Emotional Violence & Love Warfare",
-        "question": "Who\u2019s someone who deserves an apology you\u2019ll never give?"
-    },
-    {
-        "category": "Emotional Violence & Love Warfare",
-        "question": "Have you ever wanted someone to beg?"
-    },
-    {
-        "category": "Emotional Violence & Love Warfare",
-        "question": "What\u2019s the cruelest way you\u2019ve ever broken up with someone?"
-    },
-    {
-        "category": "Manipulation, Control & Psychological Games",
-        "question": "Have you ever convinced someone they were the problem just to avoid blame?"
-    },
-    {
-        "category": "Manipulation, Control & Psychological Games",
-        "question": "What\u2019s a lie you repeated so much, it became your truth?"
-    },
-    {
-        "category": "Manipulation, Control & Psychological Games",
-        "question": "Have you ever played both sides in a fight just to watch people burn?"
-    },
-    {
-        "category": "Manipulation, Control & Psychological Games",
-        "question": "What\u2019s something awful you justified as \u201chelping\u201d?"
-    },
-    {
-        "category": "Manipulation, Control & Psychological Games",
-        "question": "Have you ever made someone question their sanity?"
-    },
-    {
-        "category": "Manipulation, Control & Psychological Games",
-        "question": "Have you ever gaslighted someone into loving you more?"
-    },
-    {
-        "category": "Manipulation, Control & Psychological Games",
-        "question": "Do you enjoy having someone obsessed with you?"
-    },
-    {
-        "category": "Manipulation, Control & Psychological Games",
-        "question": "Have you ever pushed someone toward a breakdown?"
-    },
-    {
-        "category": "Manipulation, Control & Psychological Games",
-        "question": "Have you ever exploited someone's weakness for your own gain?"
-    },
-    {
-        "category": "Manipulation, Control & Psychological Games",
-        "question": "Who\u2019s someone you \u201crescued\u201d just to keep under control?"
-    },
-    {
-        "category": "Disturbing Desires & Twisted Fantasies",
-        "question": "Have you ever fantasized about someone suffering for rejecting you?"
-    },
-    {
-        "category": "Disturbing Desires & Twisted Fantasies",
-        "question": "Would you get off watching someone cry over you?"
-    },
-    {
-        "category": "Disturbing Desires & Twisted Fantasies",
-        "question": "What\u2019s a non-consensual fantasy you\u2019ve never told anyone?"
-    },
-    {
-        "category": "Disturbing Desires & Twisted Fantasies",
-        "question": "Have you ever imagined having total power over someone\u2019s life?"
-    },
-    {
-        "category": "Disturbing Desires & Twisted Fantasies",
-        "question": "Would you enjoy watching your ex beg for another chance?"
-    },
-    {
-        "category": "Disturbing Desires & Twisted Fantasies",
-        "question": "Have you ever wanted someone to stay in love with you forever\u2014even if you stopped loving them?"
-    },
-    {
-        "category": "Disturbing Desires & Twisted Fantasies",
-        "question": "What\u2019s a morally unacceptable thing you\u2019ve masturbated to?"
-    },
-    {
-        "category": "Disturbing Desires & Twisted Fantasies",
-        "question": "Have you ever fantasized about a forbidden relationship (age, power, taboo)?"
-    },
-    {
-        "category": "Disturbing Desires & Twisted Fantasies",
-        "question": "What\u2019s something you know you shouldn\u2019t want\u2014but do?"
-    },
-    {
-        "category": "Disturbing Desires & Twisted Fantasies",
-        "question": "Have you ever been turned on by fear?"
-    },
-    {
-        "category": "Guilt, Shame & Things That Shouldn't Be Said",
-        "question": "What\u2019s something you\u2019ve done that you hope no one ever discovers?"
-    },
-    {
-        "category": "Guilt, Shame & Things That Shouldn't Be Said",
-        "question": "Have you ever thought someone deserved the abuse they got?"
-    },
-    {
-        "category": "Guilt, Shame & Things That Shouldn't Be Said",
-        "question": "What\u2019s the one thing that would make everyone walk away from you if they knew?"
-    },
-    {
-        "category": "Guilt, Shame & Things That Shouldn't Be Said",
-        "question": "Have you ever laughed at someone else\u2019s trauma?"
-    },
-    {
-        "category": "Guilt, Shame & Things That Shouldn't Be Said",
-        "question": "What\u2019s a secret you\u2019ve buried so deep it hurts to remember?"
-    },
-    {
-        "category": "Guilt, Shame & Things That Shouldn't Be Said",
-        "question": "Have you ever been glad someone got hurt or ruined?"
-    },
-    {
-        "category": "Guilt, Shame & Things That Shouldn't Be Said",
-        "question": "Who\u2019s someone you lied to and it cost them something huge?"
-    },
-    {
-        "category": "Guilt, Shame & Things That Shouldn't Be Said",
-        "question": "What\u2019s a sin you committed and never regretted?"
-    },
-    {
-        "category": "Guilt, Shame & Things That Shouldn't Be Said",
-        "question": "What do you carry guilt for that you'd never confess in therapy?"
-    },
-    {
-        "category": "Guilt, Shame & Things That Shouldn't Be Said",
-        "question": "Have you ever made someone hate themselves?"
-    },
-    {
-        "category": "Vengeance, Petty Acts & Dark Gratification",
-        "question": "Who\u2019s someone you\u2019ve silently plotted against?"
-    },
-    {
-        "category": "Vengeance, Petty Acts & Dark Gratification",
-        "question": "What\u2019s the pettiest revenge you\u2019ve ever taken and loved?"
-    },
-    {
-        "category": "Vengeance, Petty Acts & Dark Gratification",
-        "question": "Have you ever ruined someone\u2019s reputation on purpose?"
-    },
-    {
-        "category": "Vengeance, Petty Acts & Dark Gratification",
-        "question": "What\u2019s a secret about someone you keep just in case?"
-    },
-    {
-        "category": "Vengeance, Petty Acts & Dark Gratification",
-        "question": "Would you leak nudes if it meant destroying someone who hurt you?"
-    },
-    {
-        "category": "Vengeance, Petty Acts & Dark Gratification",
-        "question": "Have you ever lied about being abused just to hurt someone?"
-    },
-    {
-        "category": "Vengeance, Petty Acts & Dark Gratification",
-        "question": "What\u2019s something petty you would destroy out of jealousy?"
-    },
-    {
-        "category": "Vengeance, Petty Acts & Dark Gratification",
-        "question": "Have you ever sabotaged someone\u2019s success to feel superior?"
-    },
-    {
-        "category": "Vengeance, Petty Acts & Dark Gratification",
-        "question": "What\u2019s a cruel nickname you gave someone behind their back?"
-    },
-    {
-        "category": "Vengeance, Petty Acts & Dark Gratification",
-        "question": "Have you ever set someone up to fail and smiled when they did?"
-    },
-    {
-        "category": "Sexual Shame, Risk & Chaos",
-        "question": "Have you ever had sex out of pure spite?"
-    },
-    {
-        "category": "Sexual Shame, Risk & Chaos",
-        "question": "What\u2019s the kink you\u2019re scared people would judge you for?"
-    },
-    {
-        "category": "Sexual Shame, Risk & Chaos",
-        "question": "What\u2019s the riskiest place you\u2019ve done something sexual?"
-    },
-    {
-        "category": "Sexual Shame, Risk & Chaos",
-        "question": "Have you ever cried during sex\u2014and lied about why?"
-    },
-    {
-        "category": "Sexual Shame, Risk & Chaos",
-        "question": "Have you ever had sex and felt disgusted immediately after?"
-    },
-    {
-        "category": "Sexual Shame, Risk & Chaos",
-        "question": "What\u2019s a line you crossed in bed you wish you hadn\u2019t?"
-    },
-    {
-        "category": "Sexual Shame, Risk & Chaos",
-        "question": "Have you ever used sex to get revenge on someone else?"
-    },
-    {
-        "category": "Sexual Shame, Risk & Chaos",
-        "question": "What\u2019s something you did sexually just to feel wanted?"
-    },
-    {
-        "category": "Sexual Shame, Risk & Chaos",
-        "question": "Have you ever slept with someone you couldn't stand?"
-    }
+  {
+    "category": "General",
+    "emoji": "📌",
+    "questions": [
+      "Who is one ex you would go back to\u2014if they'd take you?",
+      "Have you ever been in love with two people at once?",
+      "If your best friend's partner hit on you, would you tell or stay quiet?",
+      "Have you ever faked love, an orgasm, or affection just to keep someone?",
+      "What\u2019s the most manipulative thing you\u2019ve done in a relationship?",
+      "How much would someone have to pay you to betray a friend?",
+      "Would you sleep with someone you despise for $10,000?",
+      "If you could become rich but had to erase one person from existence, would you?",
+      "What would you do if your partner became broke and jobless forever?",
+      "Who\u2019s someone you envy to the point of hatred?",
+      "Have you ever celebrated someone else\u2019s failure? Who?",
+      "Do you secretly hope someone never succeeds\u2014just so you don\u2019t feel left behind?",
+      "Have you ever ghosted someone just because they were too happy?",
+      "Who do you wish would lose everything out of spite?",
+      "What\u2019s something you hope your ex regrets forever?",
+      "Who\u2019s someone you secretly wish would crash and burn?",
+      "Have you ever told a cruel truth just to hurt? Explain.",
+      "Have you ever convinced someone they were the problem just to avoid blame?",
+      "What\u2019s a lie you repeated so much, it became your truth?",
+      "Have you ever played both sides in a fight just to watch people burn?",
+      "Have you ever made someone question their sanity?",
+      "Have you ever gaslighted someone into loving you more?",
+      "Do you enjoy having someone obsessed with you?",
+      "Have you ever pushed someone toward a breakdown?",
+      "Have you ever exploited someone's weakness for your own gain?",
+      "Who\u2019s someone you \u201crescued\u201d just to keep under control?",
+      "What\u2019s something you\u2019ve done that you hope no one ever discovers?",
+      "Have you ever thought someone deserved the abuse they got?",
+      "What\u2019s the one thing that would make everyone walk away from you if they knew?",
+      "Have you ever laughed at someone else\u2019s trauma?",
+      "What\u2019s a secret you\u2019ve buried so deep it hurts to remember?",
+      "Have you ever been glad someone got hurt or ruined?",
+      "Who\u2019s someone you lied to and it cost them something huge?",
+      "What\u2019s a sin you committed and never regretted?",
+      "Have you ever made someone hate themselves?",
+      "Who\u2019s someone you\u2019ve silently plotted against?",
+      "What\u2019s the pettiest revenge you\u2019ve ever taken and loved?",
+      "Have you ever ruined someone\u2019s reputation on purpose?",
+      "What\u2019s a secret about someone you keep just in case?",
+      "Would you leak nudes if it meant destroying someone who hurt you?",
+      "Have you ever lied about being abused just to hurt someone?",
+      "Have you ever sabotaged someone\u2019s success to feel superior?",
+      "What\u2019s a cruel nickname you gave someone behind their back?",
+      "Have you ever set someone up to fail and smiled when they did?"
+    ]
+  },
+  {
+    "category": "Friendship & Loyalty",
+    "emoji": "🤝",
+    "questions": [
+      "Who\u2019s your least favorite person in this group?",
+      "Have you ever started a rumor about someone?",
+      "Who do you trust the least out of your close friends?",
+      "What\u2019s something you\u2019ve never forgiven a friend for\u2014but they don\u2019t know it?",
+      "Have you ever talked shit about your best friend behind their back?",
+      "Have you ever flirted with a friend\u2019s partner?",
+      "Would you bail your best friend out of jail if it cost you your savings?",
+      "Have you ever ghosted a friend without explanation?",
+      "Do you think any of your friends are secretly fake?",
+      "Would you let a friend take the fall for something you did?",
+      "Do you trust anyone 100%? If so, why?",
+      "Who in your life would betray you the fastest?",
+      "Have you ever set someone up to fail in a relationship?",
+      "What\u2019s a manipulative trick you always use in arguments?",
+      "Have you ever used crying to win?",
+      "Do you secretly keep people close just to feel in control?",
+      "Have you ever exposed a secret someone trusted you with?",
+      "What\u2019s something you know would destroy someone if it got out?",
+      "Have you ever felt proud after emotionally hurting someone?",
+      "Who\u2019s someone you would emotionally blackmail if you had to?"
+    ]
+  },
+  {
+    "category": "Sex & Intimacy",
+    "emoji": "💋",
+    "questions": [
+      "What\u2019s your body count?",
+      "Have you ever hooked up with someone and instantly regretted it?",
+      "Would you ever do a threesome\u2014who with?",
+      "What turns you on that you\u2019re too embarrassed to admit?",
+      "Have you ever filmed yourself doing it?",
+      "Have you ever fantasized about someone in this group?",
+      "What\u2019s the most public place you\u2019ve done it?",
+      "Have you ever lied about being a virgin?",
+      "What\u2019s a kink you want to try but haven\u2019t?",
+      "Do you prefer rough or romantic?",
+      "What\u2019s a sexual act you\u2019ve done but would never tell family about?",
+      "What\u2019s your secret go-to porn category?",
+      "Who\u2019s someone you fantasized about but would never approach?",
+      "Have you ever had sex with someone just because you were bored?",
+      "What\u2019s something that\u2019s happened during sex you\u2019ll never forget?",
+      "What\u2019s the dirtiest message you\u2019ve ever sent?",
+      "Would you have sex in front of an audience if paid enough?",
+      "Have you ever faked enjoyment during the entire act?",
+      "Have you ever used sex as manipulation?",
+      "What\u2019s your least favorite thing in bed you pretend to like?",
+      "Have you ever had sex out of pure spite?",
+      "What\u2019s the kink you\u2019re scared people would judge you for?",
+      "What\u2019s the riskiest place you\u2019ve done something sexual?",
+      "Have you ever cried during sex\u2014and lied about why?",
+      "Have you ever had sex and felt disgusted immediately after?",
+      "What\u2019s a line you crossed in bed you wish you hadn\u2019t?",
+      "Have you ever used sex to get revenge on someone else?",
+      "What\u2019s something you did sexually just to feel wanted?",
+      "Have you ever slept with someone you couldn't stand?",
+      "Have you ever said \"I love you\" during sex just to make it hotter?",
+      "Who\u2019s someone you would cheat with and feel no guilt?",
+      "What\u2019s a secret fetish you\u2019ve never admitted to a partner?",
+      "Ever watched your partner sleep and felt disgust instead of love?",
+      "Have you ever fantasized about your best friend\u2019s partner?",
+      "Would you ever sleep with an ex just to ruin their new relationship?",
+      "Have you ever cheated and blamed the other person emotionally?",
+      "What's the darkest thought you've had during sex?",
+      "Who\u2019s someone you\u2019d sleep with just for revenge?",
+      "Would you stay in a toxic relationship if the sex was incredible?",
+      "Have you ever fantasized about someone suffering for rejecting you?",
+      "Would you get off watching someone cry over you?",
+      "What\u2019s a non-consensual fantasy you\u2019ve never told anyone?",
+      "Have you ever imagined having total power over someone\u2019s life?",
+      "Would you enjoy watching your ex beg for another chance?",
+      "Have you ever wanted someone to stay in love with you forever\u2014even if you stopped loving them?",
+      "What\u2019s a morally unacceptable thing you\u2019ve masturbated to?",
+      "Have you ever fantasized about a forbidden relationship (age, power, taboo)?",
+      "What\u2019s something you know you shouldn\u2019t want\u2014but do?",
+      "Have you ever been turned on by fear?"
+    ]
+  },
+  {
+    "category": "Love & Relationships",
+    "emoji": "❤️",
+    "questions": [
+      "Have you ever emotionally cheated?",
+      "Who\u2019s someone you still think about but shouldn\u2019t?",
+      "Who broke your heart the worst\u2014and do they know?",
+      "Have you ever ghosted someone for no reason?",
+      "Have you ever made someone jealous on purpose?",
+      "Do you actually believe in \u201cthe one\u201d or is it all coincidences?",
+      "Have you ever told someone you love them and didn\u2019t mean it?",
+      "What\u2019s the worst thing you\u2019ve done during a breakup?",
+      "Would you get back with your ex if they asked today?",
+      "Have you ever chosen someone over your partner?",
+
+      "Have you ever made someone fall for you just for fun?",
+      "What\u2019s the coldest thing you\u2019ve ever said to someone who loved you?",
+      "Would you lie to keep someone in love with you?",
+      "What\u2019s a romantic moment you completely faked?",
+      "Have you ever ghosted someone after they got vulnerable?",
+      "Do you secretly believe love is manipulation in disguise?",
+      "What\u2019s the worst way you\u2019ve ever ended things?",
+      "Have you ever taken someone back just to hurt them?",
+      "Who\u2019s someone you wish loved you\u2014just so you could reject them?",
+      "Have you ever stayed in a relationship just to ruin the other person emotionally?",
+      "Who\u2019s someone you wish you never loved\u2014but still do?",
+      "Have you ever tried to make your partner jealous by flirting with someone in front of them?",
+      "What\u2019s the most pathetic thing someone has done to keep you?",
+      "Have you ever rejected someone just because they loved you too much?",
+      "Who's the most disposable person you've dated?",
+      "Have you ever emotionally blackmailed someone and called it love?",
+      "Who\u2019s someone who deserves an apology you\u2019ll never give?",
+      "Have you ever wanted someone to beg?",
+      "What\u2019s the cruelest way you\u2019ve ever broken up with someone?"
+    ]
+  },
+  {
+    "category": "Moral Conflicts",
+    "emoji": "⚖️",
+    "questions": [
+      "Would you lie in court to protect a friend?",
+      "If your partner cheated and nobody would ever find out, would you want to know?",
+      "Would you date someone just for money?",
+      "Would you marry someone you don\u2019t love for $1 million?",
+      "If someone gave you $500K to never talk to your best friend again, would you take it?",
+      "Have you ever emotionally manipulated someone just to feel powerful?",
+      "Would you frame someone innocent to save yourself?",
+      "Have you ever played the victim to get attention?",
+      "Would you fake a mental health crisis for sympathy?",
+      "Have you ever wished your partner would die so you could be free?",
+      "Would you sleep with someone to get revenge on a friend?",
+      "Have you ever ignored someone\u2019s trauma because it bored you?",
+      "Would you ruin someone's relationship just because you\u2019re jealous?",
+      "What\u2019s the meanest thing you've ever done and felt proud of?",
+      "What secret addiction do you hide best?",
+      "Do you want to be famous even if it destroys your privacy?",
+      "What dark corner of the internet do you visit but never admit?",
+      "What\u2019s the most obsessive thing you\u2019ve done over someone?",
+      "Have you ever stalked someone online? Who is it?",
+      "Have you ever made a fake account to spy on someone?",
+      "What\u2019s a secret turn-on you wish you didn\u2019t have?",
+      "What\u2019s the last thing you searched that you\u2019d be horrified to explain?",
+      "Do you replay arguments or fantasies in your head obsessively?",
+      "Have you ever gotten off to the thought of someone crying?",
+      "Would you ruin someone\u2019s career to secure your own?",
+      "Have you ever used someone you were never attracted to?",
+      "What\u2019s the shallowest reason you\u2019ve ever pursued someone?",
+      "Would you marry someone 40 years older for luxury?",
+      "Do you judge friends who make less money?",
+      "Have you ever pretended to be poor or rich for attention?",
+      "Who\u2019s someone you only tolerate because they\u2019re useful?",
+      "Have you ever befriended someone just for their connections?",
+      "Would you fake a relationship for money or fame?",
+      "Have you ever felt someone was \"beneath\" you socially?",
+      "What\u2019s the most illegal thing you\u2019ve ever wanted to do?",
+      "Would you push someone to cheat just to test their loyalty?",
+      "Would you ever blackmail someone if you had the dirt?",
+      "Have you ever wanted to destroy someone\u2019s life just to feel powerful?",
+      "If no one would ever know, who would you kiss\u2026 or kill?",
+      "Have you ever fantasized about running away and starting a double life?",
+      "Have you ever wished someone\u2019s child wasn\u2019t born?",
+      "What\u2019s something you\u2019ve done that you think should be unforgivable?"
+    ]
+  },
+  {
+    "category": "Greed, Envy, and Status",
+    "emoji": "🤑",
+    "questions": [
+      "Would you rather be rich and hated or poor and loved?",
+      "Who\u2019s someone you envy but won\u2019t admit it to them?",
+      "Have you ever faked a lifestyle on social media?",
+      "Would you throw someone under the bus to keep your job?",
+      "Have you ever lied about your income or job?",
+      "What\u2019s the most shallow reason you\u2019ve rejected someone?",
+      "Would you ever get with someone purely for fame?",
+      "If you could erase your past and pretend to be someone else, would you?",
+      "Have you ever used someone for clout or access?",
+      "Have you ever thought someone was beneath you?"
+    ]
+  },
+
+  {
+    "category": "Dirty Secrets",
+    "emoji": "🙊",
+    "questions": [
+      "What\u2019s something you\u2019ve stolen?",
+      "Who\u2019s someone you pretend to like, but would celebrate if they disappeared?",
+      "Have you ever wished someone in your life would die?",
+      "What\u2019s something illegal you\u2019d do if there were zero consequences?",
+      "Ever destroyed something out of rage or jealousy?",
+      "Who\u2019s the most toxic person you\u2019ve ever loved?",
+      "Have you ever lied to make someone else look bad?",
+      "What\u2019s your most shameful moment?"
+    ]
+  },
+  {
+    "category": "Dares",
+    "emoji": "🔥",
+    "questions": []
+  },
+  {
+    "category": "Identity & Self-Deception",
+    "emoji": "🎭",
+    "questions": [
+      "What\u2019s something fake about you?",
+      "Do you really like yourself or are you just coping?",
+      "Do you think you\u2019re better than most people?",
+      "What\u2019s something you constantly lie to yourself about?",
+      "What\u2019s something you\u2019ve done to fit in but hated yourself for?",
+      "Have you ever changed who you are to be loved?",
+      "What\u2019s something you\u2019ll never admit publicly but admit here?"
+    ]
+  },
+  {
+    "category": "Mental Health",
+    "emoji": "🖤",
+    "questions": [
+      "What\u2019s something that defines you\u2014but you wish it didn\u2019t?",
+      "Who\u2019s the real \u201cyou\u201d that only exists when no one\u2019s watching?",
+      "Have you ever looked in the mirror and felt disgusted? What one specific part of you?",
+      "What do you really think people love you for?",
+      "What identity do you perform that you secretly hate?",
+      "Have you ever built your personality around what others liked?",
+      "What are you most afraid people will find out about you?",
+      "What \u201cpositive\u201d trait do you secretly fake?",
+      "What\u2019s the ugliest part of your personality you keep hidden?",
+      "What\u2019s something you know you\u2019ll never admit to your partner?"
+    ]
+  },
+  {
+    "category": "Towards the group",
+    "emoji": "👀",
+    "questions": [
+      "Have you ever had a sexual fantasy about someone in this room? Describe it in detail."
+    ]
+  }
 ]

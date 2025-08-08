@@ -119,9 +119,96 @@
   }
 }
 
+/* Enhanced Card Styling with Borders and Visual Separation */
+.enhanced-card {
+  @apply bg-white/95 backdrop-blur-sm border-2 border-white/30 shadow-xl;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+.enhanced-card:hover {
+  @apply border-white/50 shadow-2xl;
+  transform: translateY(-2px);
+  transition: all 0.3s ease-in-out;
+}
+
+/* Enhanced Badge Styling */
+.enhanced-badge {
+  @apply border border-white/30 shadow-md backdrop-blur-sm;
+}
+
+.enhanced-badge-secondary {
+  @apply bg-white/20 text-gray-800 border border-white/40;
+}
+
+.enhanced-badge-primary {
+  @apply bg-gradient-to-r from-purple-500 to-blue-500 text-white border border-purple-300/50 shadow-lg;
+}
+
+/* Enhanced Input Styling */
+.enhanced-input {
+  @apply bg-white/90 border-2 border-white/40 backdrop-blur-sm shadow-inner;
+}
+
+.enhanced-input:focus {
+  @apply border-purple-400/60 ring-2 ring-purple-400/30;
+}
+
+/* Enhanced Button Styling */
+.enhanced-button {
+  @apply border border-white/30 shadow-lg backdrop-blur-sm;
+  transition: all 0.2s ease-in-out;
+}
+
+.enhanced-button:hover {
+  @apply shadow-xl border-white/50;
+  transform: translateY(-1px);
+}
+
+/* Enhanced Checkbox Styling */
+.enhanced-checkbox {
+  @apply border-2 border-white/60 shadow-sm;
+}
+
+.enhanced-checkbox[data-state="checked"] {
+  @apply bg-purple-500 border-purple-400 shadow-md;
+}
+
+.enhanced-checkbox[data-state="unchecked"] {
+  @apply bg-white/20 border-white/60;
+}
+
+.enhanced-checkbox[data-state="unchecked"]:hover {
+  @apply bg-white/30 border-white/80;
+}
+
+/* Category Item Styling */
+.category-item {
+  @apply p-3 rounded-lg bg-white/10 border border-white/20 backdrop-blur-sm;
+  transition: all 0.2s ease-in-out;
+}
+
+.category-item:hover {
+  @apply bg-white/20 border-white/40 shadow-md;
+  transform: translateY(-1px);
+}
+
+/* Player Badge Enhanced Styling */
+.player-badge {
+  @apply border border-white/30 shadow-md backdrop-blur-sm;
+}
+
+.player-badge-current {
+  @apply border-2 border-yellow-300/60 shadow-lg ring-2 ring-yellow-300/30;
+}
+
+/* Question Card Enhanced Styling */
+.question-card {
+  @apply bg-white/95 border-2 border-white/40 shadow-xl backdrop-blur-sm;
+}
 
 /* Custom styles for better UX */
-button, 
+button,
 .cursor-pointer,
 [role="button"],
 input[type="checkbox"],
@@ -143,3 +230,80 @@ input:focus,
   outline-offset: 2px;
 }
 
+/* Improved checkbox visibility for unchecked state */
+[data-state="unchecked"] {
+  border: 2px solid rgba(255, 255, 255, 0.6) !important;
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Hover effect for unchecked checkboxes */
+[data-state="unchecked"]:hover {
+  border: 2px solid rgba(255, 255, 255, 0.8) !important;
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Subtle kick button animation */
+.group:hover .opacity-0 {
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Health hearts animation */
+.text-red-500.fill-red-500 {
+  animation: heartbeat 1.5s ease-in-out infinite;
+}
+
+@keyframes heartbeat {
+  0% {
+    transform: scale(1);
+  }
+  14% {
+    transform: scale(1.1);
+  }
+  28% {
+    transform: scale(1);
+  }
+  42% {
+    transform: scale(1.1);
+  }
+  70% {
+    transform: scale(1);
+  }
+}
+
+/* Enhanced visual hierarchy */
+.title-glow {
+  text-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+}
+
+/* Improved card content spacing */
+.card-content-enhanced {
+  @apply p-6;
+}
+
+/* Enhanced separator lines */
+.separator-enhanced {
+  @apply border-t border-white/20 my-4;
+}
+
+/* Improved button group styling */
+.button-group {
+  @apply flex gap-2 items-center;
+}
+
+/* Enhanced modal/winner screen styling */
+.winner-card {
+  @apply bg-white/98 border-2 border-yellow-300/50 shadow-2xl backdrop-blur-sm;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25),
+    0 0 0 1px rgba(255, 255, 255, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
